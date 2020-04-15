@@ -66,16 +66,20 @@ Have you ever wondered how some of the languages you use actually implement thei
 - Implement `merge_sort()` in `recursive_sorting.py`. It's recommended that you use...
   - A recursive function that handles dividing the array (or subarray) in half
   - A helper function that handles merging sorted pieces back together
+  - [X] DONE
 - ***STRETCH*** - Try writing an *in-place* ***Merge Sort*** algorithm.
+  - [X] DONE
 
 
 ## TO-DO in recursive_sorting.py
 - Implement the `merge_sort()`
+  - [X] DONE
 
 ## Stretch Goals
 
 ### Make a better Merge Sort
 - While a little more challenging, it is possible to implement ***Merge Sort*** **in-place** (without using extra memory). Try writing a second `merge_sort()` function that does this.
+  - [X] DONE
 
 ### Timsort is a combination of the Merge Sort and Insertion Sort algorithms.
 - What programming languages use **Timsort** to implement their built-in `sort()` functions?
